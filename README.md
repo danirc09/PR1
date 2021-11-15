@@ -1,6 +1,6 @@
-# Título del Proyecto
+# HAL21
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Intranet para gestionar reservas, cancelaciones e incidencias de un restaurante.
 
 ## Comenzando 🚀
 
